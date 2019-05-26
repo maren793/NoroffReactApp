@@ -1,16 +1,10 @@
 # README #
-This is a blank template for a react.js application
-SASS and live reload have already been configured.
 
-#How do I get set up?
-Clone the repo
+- Clone the repo
 
-cd into repo
+- cd into repo by the means of your terminal
 
-npm install
+- npm install
 
-npm start
+- npm start
 
-#To build for production
-
-npm run build
