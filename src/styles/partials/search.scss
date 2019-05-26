@@ -1,0 +1,16 @@
+.search {
+    float: right;
+    margin: 0, auto;
+    width: 400px;
+    padding: 5px;
+
+
+    input {
+        border-color: $grey;
+        border-width: 3px;
+
+        &:focus {
+            border-color: darken($grey, 30%);
+        }
+    }
+}

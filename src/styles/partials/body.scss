@@ -1,0 +1,21 @@
+body {
+    background-color: $yellow;
+    font-family: $bodyFont;
+
+}
+
+h1,h2,h3 {
+    font-family: $headingFont;
+}
+
+a {
+    &:link { 
+        color: $offwhite; 
+        text-decoration: none;
+    }
+    
+    &:visited {
+        color: $black;
+        
+    } 
+}
